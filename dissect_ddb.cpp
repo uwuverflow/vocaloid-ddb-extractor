@@ -4,6 +4,7 @@
 #include <fstream>
 #include <string>
 #include <cstring>
+#include <cstdint>
 
 using std::cout;
 using std::cin;
